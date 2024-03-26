@@ -1,4 +1,4 @@
-# Petstore AP2
+# Petstore AP
 www2
 ## To Build
 ```
