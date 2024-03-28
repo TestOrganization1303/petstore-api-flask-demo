@@ -1,5 +1,4 @@
-# Petstore AP1 
-www
+# Petstore AP 
 ## To Build
 ```
 docker build -t petstore .
